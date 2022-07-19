@@ -1,0 +1,18 @@
+body {
+  background-size: 100%;
+  background-color: #ff5b4e;
+}
+.cards {
+  display: flex;
+  justify-content: center;
+  margin-top: 488px;
+}
+.cards img {
+  width: 180px;
+  height: 240px;
+  margin-left: 50px;
+  bottom: 1px;
+  z-index: -1;
+  transform: scale(0.9);
+  box-shadow: 0 11px 18px -7px #000000;
+}
