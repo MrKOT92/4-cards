@@ -5,7 +5,7 @@ body {
 .cards {
   display: flex;
   justify-content: center;
-  margin-top: 488px;
+  margin-top: 18%;
 }
 .cards img {
   width: 180px;
